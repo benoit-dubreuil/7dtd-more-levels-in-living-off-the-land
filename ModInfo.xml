@@ -9,6 +9,6 @@ They also increase the amount of bonus randomly harvested wild or planted crops 
 Finally, the last 2 new levels increase the quantity of harvested seeds from wild or planted crops by 1 and 2, respectively.
 They don't increase the probability to get some." />
         <Author value="Benoît Dubreuil" />
-        <Version value="1.0.0" />
+        <Version value="1.0.1" />
     </ModInfo>
 </xml>
