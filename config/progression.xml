@@ -15,6 +15,6 @@
 	
 	<!-- Increase the seed harvest for the new levels -->
 	<append xpath="/progression/perks/perk[@name='perkLivingOffTheLand']/effect_group">
-		<passive_effect name="HarvestCount" operation="base_set" level="4,5" value="1,2" tags="cropSeedHarvest"/>
+		<passive_effect name="HarvestCount" operation="perc_add" level="4,5" value="1,1" tags="cropSeedHarvest"/>
 	</append>
 </config>
